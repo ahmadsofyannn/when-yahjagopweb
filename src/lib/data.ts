@@ -47,7 +47,7 @@ export const projects: Record<"id" | "en", Project[]> = {
       title: "Portfolio Website",
       description:
         "An interactive personal portfolio website featuring 3D visual effects, modern animations, and bilingual support.",
-      image: "/projects/portfolio.png",
+      image: "",
       tags: ["Next.js", "Tailwind CSS", "TypeScript", "Framer Motion"],
       url: "https://portofolio-demo.com",
       github: "https://github.com/username/portofolio",
