@@ -11,66 +11,66 @@ export interface Project {
 export const projects: Record<"id" | "en", Project[]> = {
   id: [
     {
-      id: "portfolio-website",
-      title: "Website Portofolio",
+      id: "",
+      title: "",
       description:
-        "Website portofolio pribadi interaktif dengan efek 3D, animasi modern, dan dukungan dua bahasa.",
+        "When yah Projekan",
       image: "",
-      tags: ["Next.js", "Tailwind CSS", "TypeScript", "Framer Motion"],
-      url: "https://portofolio-demo.com",
-      github: "https://github.com/username/portofolio",
-    },
-    {
-      id: "daily-notes-app",
-      title: "Aplikasi Catatan Harian",
-      description:
-        "Aplikasi web untuk mencatat, mengedit, dan mengelola tugas harian dengan penyimpanan data lokal di browser.",
-      image: "",
-      tags: ["React", "Tailwind CSS", "JavaScript"],
+      tags: [],
       url: "",
-      github: "https://github.com/username/catatan-harian",
+      github: "",
     },
     {
-      id: "small-business-landing-page",
-      title: "Landing Page Usaha Kecil",
+      id: "",
+      title: "",
       description:
-        "Halaman promosi modern untuk usaha kecil menengah (UMKM) lengkap dengan katalog produk dan kontak langsung.",
+        "When yah Projekan",
       image: "",
-      tags: ["Next.js", "Tailwind CSS"],
-      url: "https://umkm-demo.com",
-      github: "https://github.com/username/landing-page-umkm",
+      tags: [],
+      url: "",
+      github: "",
+    },
+    {
+      id: "",
+      title: "",
+      description:
+        "When yah Projekan",
+      image: "",
+      tags: [],
+      url: "",
+      github: "",
     },
   ],
   en: [
     {
-      id: "portfolio-website",
-      title: "Portfolio Website",
+      id: "",
+      title: "",
       description:
-        "An interactive personal portfolio website featuring 3D visual effects, modern animations, and bilingual support.",
+        "When yah Projekan",
       image: "",
-      tags: ["Next.js", "Tailwind CSS", "TypeScript", "Framer Motion"],
-      url: "https://portofolio-demo.com",
-      github: "https://github.com/username/portofolio",
-    },
-    {
-      id: "daily-notes-app",
-      title: "Daily Notes App",
-      description:
-        "A web application to write, edit, and organize daily tasks with browser local storage persistence.",
-      image: "",
-      tags: ["React", "Tailwind CSS", "JavaScript"],
+      tags: [],
       url: "",
-      github: "https://github.com/username/catatan-harian",
+      github: "",
     },
     {
-      id: "small-business-landing-page",
-      title: "Small Business Landing Page",
+      id: "",
+      title: "",
       description:
-        "A modern single-page promotional website for small businesses, featuring product listings and direct contact.",
+        "When yah Projekan",
       image: "",
-      tags: ["Next.js", "Tailwind CSS"],
-      url: "https://umkm-demo.com",
-      github: "https://github.com/username/landing-page-umkm",
+      tags: [],
+      url: "",
+      github: "",
+    },
+    {
+      id: "",
+      title: "",
+      description:
+        "When yah Projekan",
+      image: "",
+      tags: [],
+      url: "",
+      github: "",
     },
   ],
 };
