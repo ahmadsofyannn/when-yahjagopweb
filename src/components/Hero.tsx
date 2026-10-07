@@ -14,7 +14,7 @@ const HERO_TEXTS = {
   id: {
     greeting: "HALO, SAYA",
     rolePrefix: "SEORANG",
-    roleTitle: "Pengembang Web Front-End",
+    roleTitle: "Mahasigma",
     viewProjects: "Lihat Proyek",
     contactMe: "Kontak Saya",
     hubungiSaya: "Hubungi Saya",
@@ -23,7 +23,7 @@ const HERO_TEXTS = {
   en: {
     greeting: "HELLO, I AM",
     rolePrefix: "AS A",
-    roleTitle: "Front-End Web Developer",
+    roleTitle: "Mahasigma",
     viewProjects: "View Projects",
     contactMe: "Contact Me",
     hubungiSaya: "Contact Me",
